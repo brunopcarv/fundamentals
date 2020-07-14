@@ -12,9 +12,13 @@ Este repositório reune diferentes fundamentos de programação em Python que v�
 de códigos básicos a algoritmos de aprendizado de máquina e outros métodos
 da ciência de dados.
 
-List of assignments (lista de programas)
+List of algorithms (Lista de algoritmos)
 ########################################
 
 Face Detection (Detecção Facial)
 ********************************
 - Haar Cascades
+
+	.. code:: sh
+
+	 python3 face-detection/face-detection-haar.py
