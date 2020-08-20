@@ -1,6 +1,6 @@
-############
-Fundamentals
-############
+##################
+Image Fundamentals
+##################
 
 Description (Descrição)
 #######################
